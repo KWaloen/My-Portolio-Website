@@ -9,7 +9,7 @@ export default function Current_Projects() {
                 <h2>
                     
                     <ul>
-                        <Link className="link" href="https://js-proposals.vercel.app/" target="_blank"> JavaScript Proposals Project</Link>
+                        <Link className="link" href="https://www.trikkefestivalen.no/" target="_blank">🚋 Trikkefestivalen Website 🚋</Link>
                     </ul>
                 
                 </h2>

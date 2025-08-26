@@ -4,9 +4,12 @@ export default function React_Projects() {
     return (
 
             <div className='card'>
-                <h2 className="text-xl font-bold">React Projects</h2>
+                <h2 className="text-xl font-bold">Web Projects</h2>
 
                 <h2>
+                    <ul>
+                        <Link className="link" href="https://js-proposals.vercel.app/" target="_blank">🚀 JavaScript Proposals Project 🚀</Link>
+                    </ul>
                     <ul>
                         <Link className="link" href="https://baio.netlify.app/" target="_blank"> 💬 BAIO Bioinformatics Chatbot 💬</Link>
                     </ul>
